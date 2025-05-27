@@ -1,6 +1,6 @@
 **A fork of [Jodebu/upload-to-drive](https://github.com/Jodebu/upload-to-drive).**
 
-# meme
+# signer
 - Adds `fileLink` output parameter.
 - Accepts glob for input files
 
